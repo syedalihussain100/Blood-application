@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "345540181833",
+    "project_id": "blood-app-aa959",
+    "storage_bucket": "blood-app-aa959.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:345540181833:android:e2f6a7953b6a5e82c02498",
+        "android_client_info": {
+          "package_name": "com.awesomeproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "345540181833-gopj51afmqa4i8dq4t19aq57pp8qst0d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.awesomeproject",
+            "certificate_hash": "0f711bbaec3eb96c4cdd7ff3d7149686e9aefd55"
+          }
+        },
+        {
+          "client_id": "345540181833-bm40a7ocp6g7fmnmifkos9ujr7n4jdhf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnM2RpVd-xhlkuJZ_b-tLXjVMRQyr0bOI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "345540181833-bm40a7ocp6g7fmnmifkos9ujr7n4jdhf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
